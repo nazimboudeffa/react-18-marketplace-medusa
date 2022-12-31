@@ -1,10 +1,12 @@
 import './index.css'
 import Hero from './components/hero'
+import Products from './components/products'
 
 function App() {
   return (
     <>
-      <Hero/>
+      <Hero />
+      <Products />
     </>
   )
 }
